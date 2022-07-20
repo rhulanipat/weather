@@ -1,0 +1,42 @@
+body{
+  background-image: url('./damiano-baschiera-d4feocYfzAM-unsplash.jpg');
+}
+.Container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+.infos{
+  padding: 15px;
+  width: 80%;
+  margin: auto;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: 16px;
+}
+.infos:focus{
+  outline: none;
+}
+h1{
+  color: rgb(255, 166, 0);
+}
+.tempo{
+  font-size: x-large;
+
+}
+.kop{
+  font-size: x-large;
+}
+.huma{
+  font-size: x-large;
+}
+.h{
+  font-size: x-large;
+}
+.date{
+ color:black;
+  font-size: x-large;
+}
